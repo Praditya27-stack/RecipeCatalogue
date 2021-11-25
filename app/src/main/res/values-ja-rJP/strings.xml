@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Recipe Catalogue</string>
+    <string name="txt_breakfast">Breakfast</string>
+    <string name="txt_dessert">Dessert</string>
+    <string name="txt_seafood">Seafood</string>
+    <string name="txt_vegetarian">Vegetarian</string>
+    <string name="image_banner_food">Image Banner Food</string>
+    <string name="content_banngera_image_food">content_banngera_image_food</string>
+    <string name="cooked">Cooked</string>
+    <string name="_1_2_k">1.2 K</string>
+    <string name="garlic_butter_shrimp">Garlic Butter Shrimp</string>
+    <string name="Cooked">Cooked</string>
+</resources>
